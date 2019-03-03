@@ -19,6 +19,7 @@
         <java.version>1.8</java.version>
         <maven.test.skip>true</maven.test.skip>
 	<javafx.version>2.2</javafx.version>
+	<joker.apps.folder>${user.home}/JokerApps</joker.apps.folder>
     </properties>
 
     <dependencies>
