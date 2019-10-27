@@ -6,7 +6,7 @@
 
     <groupId>xxx.joker.parent</groupId>
     <artifactId>java-8-base-parent</artifactId>
-    <version>1.0</version>
+    <version>3.0</version>
 
     <packaging>pom</packaging>
 
